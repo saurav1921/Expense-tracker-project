@@ -3,6 +3,7 @@
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
 
 Features:
+- Based on laravel, MyPHP, MySQL and Javascript
 - CRUDs for income/expenses and their categories
 - Monthly reports by income/expenses and their categories
 - Multi-tenancy: Ability to register new user who sees only their categories/entries (admin sees all).
